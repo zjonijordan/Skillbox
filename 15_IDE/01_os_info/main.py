@@ -1,5 +1,4 @@
-# TODO запустить этот скрипт и закомитить результат его работы (файл os_info.txt)
-
+"""Zalupa zontic"""
 import platform
 import sys
 

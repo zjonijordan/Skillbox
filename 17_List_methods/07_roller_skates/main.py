@@ -1,6 +1,6 @@
 size_list = []
 people_list = []
-Flag = False
+end_list = []
 def alg(temp, temp2, temp3, temp4):
     count = 0
     HM = int(input(temp))
@@ -8,14 +8,14 @@ def alg(temp, temp2, temp3, temp4):
         count += 1
         size = int(input(temp2 + str(count) + temp3))
         temp4.append(size)
-        if Flag == True:
-            for i in size_list:
-                if i >= size:
-                    size_list.remove(i)
-                    break
-
 
 alg("Кол-во коньков: ","Размер ", ' пары: ', size_list)
-Flag = True
 alg("Кол-во людей: ", "Размер ноги ", ' человека: ', people_list)
-print("Наибольшее кол-во людей, которые могут взять ролики: ", len(size_list))
+
+for i in people_list:
+    for t in size_list:
+        if t == i or t + 1 == i:
+            size_list.remove(t)
+            end_list.append(t)
+
+print("Наибольшее кол-во людей, которые могут взять ролики: ", len(end_list))

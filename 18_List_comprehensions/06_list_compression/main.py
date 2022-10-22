@@ -1,14 +1,8 @@
 N = list(input("Ведите список чисел: "))
-count = N.count("0")
-def delite(flag):
-    for i in N:
-        N.remove("0")
-    if flag == True:
-        for q in range(count):
-            N.append('0')
-    return N
 
-print("Список до удаления:", delite(True))
-print("Список после сжатия:", delite(False))
+N_with_zero = [i for i in N if int(i) != 0]
+zero = [i for i in N if int(i) == 0]
+
+print("Масив: ", N, "\nМасив без нулей:", N_with_zero, "\nМасив с нулями:", N_with_zero + zero)
 
 

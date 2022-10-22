@@ -1,18 +1,8 @@
 dict = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
-count = 0
-message = input("Введите сообщение: ")
 korn = int(input("Введите сдвиг: "))
-skript = ''
+message = input("Введите сообщение: ")
 
-for i in message:
-    if i == " ":
-        skript += " "
-    for t in dict:
-        count += 1
-        if korn + count > len(dict):
-            count = count - len(dict)
-        if t == i:
-            skript += dict[count - 1 + korn]
-    count = 0
+index = [((dict.index(i) + korn) % len(dict)) if i != " " else -1 for i in message]
+new_word = [dict[r] if r != -1 else " " for r in index]
 
-print("Зашифрованное сообщение: ", skript)
+print("Зашифрованное сообщение: " + ''.join(new_word))

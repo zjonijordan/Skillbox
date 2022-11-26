@@ -43,6 +43,10 @@ data = {
         }
     ]
 }
-
-
-# TODO здесь писать код
+print(data.keys(), data.values())
+data['ETH'].update({"total_diff": 100})
+data['tokens'][0]['fst_token_info']['name'] = 'doge'
+data['ETH']["totalOut"] = data['tokens'][0]["totalOut"]
+del data['tokens'][0]["totalOut"]
+data['tokens'][1]["sec_token_info"] = {"address": "0x44444","name": "ggg","decimals": "2","symbol": "fff","total_supply": "250000000000","owner": "0x44444","last_updated": 1520452201,"issuances_count": 0,"holders_count": 20707,"total_price": False}
+print(data)

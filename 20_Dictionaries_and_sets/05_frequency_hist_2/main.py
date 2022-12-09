@@ -13,10 +13,11 @@ for u in text:
     print(u[0], ':', text[u])
 
 print('Инвертированный словарь частот:')
-for u, i in text.items():
-    invert.update(dict.fromkeys([i], []))
-for o, p in text.items():
-    invert[p] += [o]
-for q, w in invert.items():
-    print(q,':', w)
+for letters, number in text.items():
+    if str(number) in invert:
+        invert[str(number)] += letters
+    else:
+        invert.update({str(number): [letters]})
 
+for q, a in invert.items():
+    print(str(q) + ' : ' + str(a))

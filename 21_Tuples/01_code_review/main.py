@@ -18,27 +18,13 @@ students = {
         'interests': ['languages', 'health food']
     }
 }
+def calculate():
+    interests = tuple()
+    soname = 0
+    for i, p in students.items():
+        interests += tuple(p['interests'])
+        for _ in p['surname']:
+            soname += 1
+    return interests, soname
 
-
-def f(dict):
-    lst = []
-    string = ''
-    for i in dict:
-        lst += (dict[i]['interests'])
-        string += dict[i]['surname']
-    cnt = 0
-    for s in string:
-        cnt += 1
-    return lst, cnt
-
-
-pairs = []
-for i in students:
-    pairs += (i, students[i]['age'])
-
-
-my_lst = f(students)[0]
-l = f(students)[1]
-print(my_lst, l)
-
-# TODO исправить код
+print(calculate())

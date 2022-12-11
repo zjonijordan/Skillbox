@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14b9463e-8ff9-41b2-abf1-c79aaecdf3d9" name="Changes" comment="Исправление 8 задание">
+      <change beforePath="$PROJECT_DIR$/21_Tuples/01_code_review/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/01_code_review/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/15_IDE/04_reverse_num/main.py" />
+    </disable_hints>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="zjonijordan &lt;35163242+zjonijordan@users.noreply.github.com&gt;" />
+        <option value="Home &lt;z1@&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Chack_20" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/16_Lists/10_sort/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/02_geography/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/04_goods/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/06_synonym_dict/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/08_guess_number/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/09_pedigree/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/10_palindrome_again/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/21_Tuples/01_code_review/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FOBkGAts7PuGKuPSfmQDwUgMdH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14b9463e-8ff9-41b2-abf1-c79aaecdf3d9" name="Changes" comment="" />
+      <created>1664353390395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664353390395</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Задание 5 выполненно">
+      <created>1665171290804</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1665171290804</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Задание 6 выполненно">
+      <created>1665215253628</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1665215253628</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Задание 7 выполненно">
+      <created>1665228611426</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1665228611426</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Задание 8 выполненно">
+      <created>1665311161291</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1665311161291</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Задание 9 выполненно">
+      <created>1665315079844</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1665315079844</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Задание 10 выполненно">
+      <created>1665325649143</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1665325649143</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Исправлено 10">
+      <created>1665327376274</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1665327376274</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Исправлено 6">
+      <created>1665336721389</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1665336721389</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Исправлено 7">
+      <created>1665509737299</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1665509737299</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Задание 1 выполнено">
+      <created>1665952804598</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1665952804598</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Задание 3 выполнено">
+      <created>1666031778313</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1666031778313</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Задание 2 выполнено">
+      <created>1666032063172</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1666032063172</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Задание 4 выполнено">
+      <created>1666033281191</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1666033281191</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Задание 5 выполнено">
+      <created>1666102250760</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1666102250760</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Задание 6 выполнено">
+      <created>1666104875586</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1666104875586</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Задание 7 выполнено">
+      <created>1666121149309</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1666121149309</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Задание 8 выполнено">
+      <created>1666124768415</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1666124768415</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Задание 9 выполнено">
+      <created>1666279171988</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1666279171988</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Задание 9 выполнено">
+      <created>1666288432122</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1666288432122</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Задание 10 выполнено">
+      <created>1666293807013</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1666293807013</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Исправление 1 задачи">
+      <created>1666377257122</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1666377257123</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Исправление 6 задачи">
+      <created>1666426765428</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1666426765428</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Исправление 7 задачи">
+      <created>1666428270177</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1666428270177</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Исправление 10 задачи">
+      <created>1666463449666</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1666463449666</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Задача 1 сделана">
+      <created>1666549987053</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1666549987053</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Задача 2 сделана">
+      <created>1666625201841</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1666625201841</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Задача 3 сделана">
+      <created>1666631994362</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1666631994362</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Задача 4 сделана">
+      <created>1666632553745</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1666632553745</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Задача 5 сделана">
+      <created>1666642551556</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1666642551556</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Задача 6 сделана">
+      <created>1666713800372</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1666713800372</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Задача 7 сделано">
+      <created>1666730261829</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1666730261829</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Задача 8 сделано">
+      <created>1666992487042</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1666992487042</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Задача 9 сделано">
+      <created>1667150881670</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1667150881670</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Задача 10 сделано">
+      <created>1667404238728</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1667404238728</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Задача 1 сделано">
+      <created>1667720393788</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1667720393788</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Задача 4 сделано">
+      <created>1669464363867</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1669464363867</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Задача 5 сделано">
+      <created>1669580377452</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1669580377452</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Задача 6 сделано">
+      <created>1669622226102</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1669622226102</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Задача 7 сделано">
+      <created>1669658847422</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1669658847422</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Задача 8 сделано">
+      <created>1669834218774</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1669834218774</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Задача 9 сделано">
+      <created>1670498940959</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1670498940959</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Задача 10 сделано">
+      <created>1670505780820</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1670505780820</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Задача 10 сделано">
+      <created>1670506098296</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506098296</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Исправление 10 задание">
+      <created>1670530868713</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1670530868713</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Исправление 2 задание">
+      <created>1670582035302</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1670582035302</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Исправление 3 задание">
+      <created>1670585103362</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1670585103362</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Исправление 4 задание">
+      <created>1670594896373</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1670594896373</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Исправление 5 задание">
+      <created>1670605167969</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1670605167969</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Исправление 8 задание">
+      <created>1670709041925</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1670709041925</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание 10 выполнено" />
+    <MESSAGE value="Исправление 1 задачи" />
+    <MESSAGE value="Исправление 6 задачи" />
+    <MESSAGE value="Исправление 7 задачи" />
+    <MESSAGE value="Исправление 10 задачи" />
+    <MESSAGE value="Задача 1 сделана" />
+    <MESSAGE value="Задача 2 сделана" />
+    <MESSAGE value="Задача 3 сделана" />
+    <MESSAGE value="Задача 4 сделана" />
+    <MESSAGE value="Задача 5 сделана" />
+    <MESSAGE value="Задача 6 сделана" />
+    <MESSAGE value="Задача 1 сделано" />
+    <MESSAGE value="Задача 4 сделано" />
+    <MESSAGE value="Задача 5 сделано" />
+    <MESSAGE value="Задача 6 сделано" />
+    <MESSAGE value="Задача 7 сделано" />
+    <MESSAGE value="Задача 8 сделано" />
+    <MESSAGE value="Задача 9 сделано" />
+    <MESSAGE value="Задача 10 сделано" />
+    <MESSAGE value="Исправление 10 задание" />
+    <MESSAGE value="Исправление 2 задание" />
+    <MESSAGE value="Исправление 3 задание" />
+    <MESSAGE value="Исправление 4 задание" />
+    <MESSAGE value="Исправление 5 задание" />
+    <MESSAGE value="Исправление 8 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправление 8 задание" />
+  </component>
+</project>

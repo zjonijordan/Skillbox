@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14b9463e-8ff9-41b2-abf1-c79aaecdf3d9" name="Changes" comment="Исправление 8 задание">
-      <change beforePath="$PROJECT_DIR$/21_Tuples/01_code_review/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/01_code_review/main.py" afterDir="false" />
+    <list default="true" id="14b9463e-8ff9-41b2-abf1-c79aaecdf3d9" name="Changes" comment="Задание 1 сделано">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Tuples/02_universal_prog_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/02_universal_prog_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Tuples/03_function/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/03_function/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Tuples/04_players/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/04_players/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/08_guess_number/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/09_pedigree/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/10_palindrome_again/main.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/21_Tuples/01_code_review/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/21_Tuples/01_code_review/main.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,13 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664353390395</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Задание 5 выполненно">
-      <created>1665171290804</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1665171290804</updated>
     </task>
     <task id="LOCAL-00036" summary="Задание 6 выполненно">
       <created>1665215253628</created>
@@ -428,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670709041925</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Задание 1 сделано">
+      <created>1670758600261</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1670758600261</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +446,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задание 10 выполнено" />
     <MESSAGE value="Исправление 1 задачи" />
     <MESSAGE value="Исправление 6 задачи" />
     <MESSAGE value="Исправление 7 задачи" />
@@ -468,6 +470,7 @@
     <MESSAGE value="Исправление 4 задание" />
     <MESSAGE value="Исправление 5 задание" />
     <MESSAGE value="Исправление 8 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Исправление 8 задание" />
+    <MESSAGE value="Задание 1 сделано" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 1 сделано" />
   </component>
 </project>

@@ -23,5 +23,16 @@ store = {
         {'quantity': 43, 'price': 97},
     ],
 }
+all = dict()
+def calculate(values):
+    quantity = 0
+    for i in store[values]:
+        quantity += i['quantity']
+        summa = {'quantity': quantity, 'price': (i['quantity'] * i['price'])}
+    return summa
 
-# TODO здесь писать код
+for i in goods:
+    all.setdefault(i, calculate(goods[i]))
+
+for name, other in all.items():
+    print(name + ' - ' + str(other['quantity']) + " шт, стоимость " + str(other['price']) + ' руб')

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90700379-f2f3-4344-b866-d0d9af465e8b" name="Changes" comment="Задание 5 сделано!">
+    <list default="true" id="90700379-f2f3-4344-b866-d0d9af465e8b" name="Changes" comment="Задание 6 сделано!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/21_Tuples/02_universal_prog_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/02_universal_prog_2/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/21_Tuples/03_function/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/03_function/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_Tuples/06_pairs/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/06_pairs/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/16_Lists/10_sort/main.py" root0="FORCE_HIGHLIGHTING" />
@@ -46,6 +46,7 @@
     <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/09_pedigree/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/20_Dictionaries_and_sets/10_palindrome_again/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/21_Tuples/01_code_review/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/21_Tuples/02_universal_prog_2/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/21_Tuples/05_one_family/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/21_Tuples/06_pairs/main.py" root0="SKIP_INSPECTION" />
   </component>
@@ -84,32 +85,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="14b9463e-8ff9-41b2-abf1-c79aaecdf3d9" name="Changes" comment="" />
+      <changelist id="90700379-f2f3-4344-b866-d0d9af465e8b" name="Changes" comment="Задание 6 сделано!" />
       <created>1664353390395</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664353390395</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Задание 7 выполненно">
-      <created>1665228611426</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1665228611426</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Задание 8 выполненно">
-      <created>1665311161291</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1665311161291</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Задание 9 выполненно">
-      <created>1665315079844</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1665315079844</updated>
     </task>
     <task id="LOCAL-00040" summary="Задание 10 выполненно">
       <created>1665325649143</created>
@@ -433,7 +413,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670774774410</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Задание 6 сделано!">
+      <created>1670778270581</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1670778270581</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Задание 6 сделано!">
+      <created>1670778594763</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1670778594763</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Задание 6 сделано!">
+      <created>1670778718182</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1670778718182</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -448,7 +449,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Исправление 6 задачи" />
     <MESSAGE value="Исправление 7 задачи" />
     <MESSAGE value="Исправление 10 задачи" />
     <MESSAGE value="Задача 1 сделана" />
@@ -473,6 +473,7 @@
     <MESSAGE value="Исправление 8 задание" />
     <MESSAGE value="Задание 1 сделано" />
     <MESSAGE value="Задание 5 сделано!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 5 сделано!" />
+    <MESSAGE value="Задание 6 сделано!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 6 сделано!" />
   </component>
 </project>

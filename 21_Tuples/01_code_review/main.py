@@ -18,13 +18,13 @@ students = {
         'interests': ['languages', 'health food']
     }
 }
-def calculate():
+def calculate(data):
     interests = tuple()
     soname = 0
-    for i, p in students.items():
+    for i, p in data.items():
         interests += tuple(p['interests'])
         for _ in p['surname']:
             soname += 1
     return interests, soname
 
-print(calculate())
+print(calculate(students))

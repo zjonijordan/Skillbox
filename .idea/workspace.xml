@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90700379-f2f3-4344-b866-d0d9af465e8b" name="Changes" comment="Исправлено 3 задание">
-      <change beforePath="$PROJECT_DIR$/21_Tuples/04_players/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/04_players/main.py" afterDir="false" />
+    <list default="true" id="90700379-f2f3-4344-b866-d0d9af465e8b" name="Changes" comment="Исправлено 4 задание">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Tuples/07_sort_function/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/07_sort_function/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664353390395</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Задание 5 выполнено">
-      <created>1666102250760</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1666102250760</updated>
     </task>
     <task id="LOCAL-00049" summary="Задание 6 выполнено">
       <created>1666104875586</created>
@@ -437,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670958433262</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Исправлено 4 задание">
+      <created>1670958545800</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1670958545800</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +453,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 1 сделано" />
     <MESSAGE value="Задача 4 сделано" />
     <MESSAGE value="Задача 5 сделано" />
     <MESSAGE value="Задача 6 сделано" />
@@ -477,6 +477,7 @@
     <MESSAGE value="Задание 10 сделано!" />
     <MESSAGE value="Исправлено 1 задание" />
     <MESSAGE value="Исправлено 3 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Исправлено 3 задание" />
+    <MESSAGE value="Исправлено 4 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправлено 4 задание" />
   </component>
 </project>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90700379-f2f3-4344-b866-d0d9af465e8b" name="Changes" comment="Задание 8 сделано!">
+    <list default="true" id="90700379-f2f3-4344-b866-d0d9af465e8b" name="Changes" comment="Задание 9 сделано!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_Tuples/09_competition_protocol/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/09_competition_protocol/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_Tuples/10_my_zip/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_Tuples/10_my_zip/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
     <setting file="file://$PROJECT_DIR$/21_Tuples/07_sort_function/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/21_Tuples/08_contacts_3/main.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/21_Tuples/09_competition_protocol/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/21_Tuples/10_my_zip/main.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664353390395</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Задание 1 выполнено">
-      <created>1665952804598</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1665952804598</updated>
     </task>
     <task id="LOCAL-00045" summary="Задание 3 выполнено">
       <created>1666031778313</created>
@@ -437,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670873992402</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Задание 9 сделано!">
+      <created>1670934254811</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1670934254811</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -452,7 +453,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача 3 сделана" />
     <MESSAGE value="Задача 4 сделана" />
     <MESSAGE value="Задача 5 сделана" />
     <MESSAGE value="Задача 6 сделана" />
@@ -477,6 +477,7 @@
     <MESSAGE value="Задание 3 сделано!" />
     <MESSAGE value="Задание 7 сделано!" />
     <MESSAGE value="Задание 8 сделано!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 8 сделано!" />
+    <MESSAGE value="Задание 9 сделано!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 9 сделано!" />
   </component>
 </project>

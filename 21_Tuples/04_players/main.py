@@ -5,5 +5,5 @@ players = {
 }
 perem = list()
 for name, score in players.items():
-    perem += [tuple(name[0:] + tuple(score)[0:])]
+    perem.append(tuple(name + tuple(score)))
 print(perem)

@@ -23,8 +23,7 @@ def calculate(data):
     soname = 0
     for i, p in data.items():
         interests += tuple(p['interests'])
-        for _ in p['surname']:
-            soname += 1
+        soname += len(p['surname'])
     return interests, soname
 
 print(calculate(students))
